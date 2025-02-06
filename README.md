@@ -11,8 +11,12 @@ Sistema capaz de agendar transferências bancárias e visualizar o extrato de ag
    java -jar backend-v1.jar
 
 3. Navegue até a pasta `vue` onde o projeto frontend está localizado.
-4. Execute o seguinte comando:
+4. Execute os seguintes comandos:
 
+   ```bash
+   npm i
+   ```
+   
    ```bash
    npm run dev
 
